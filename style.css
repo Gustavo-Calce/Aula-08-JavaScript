@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to right, rgb(2, 161, 182), rgb(0, 0, 0));
+    font-family: Arial;
+    font-size: 25px;
+}
+
+#image{
+    width: 900px;
+    height: 600px;
+    padding-left: 14%;
+}
